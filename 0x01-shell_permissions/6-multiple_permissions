@@ -1,0 +1,2 @@
+chmod u=rwx,g=r,o= filename
+chmod og-rwx filename
