@@ -1,1 +1,2 @@
-pts membership user
+#!/ bin/bash
+groups
