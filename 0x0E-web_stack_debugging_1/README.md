@@ -101,6 +101,3 @@ root@966c5664b21f:/# service nginx status
 root@966c5664b21f:/# 
 ```
 ---
-
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
